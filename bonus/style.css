@@ -1,0 +1,83 @@
+/*----------------
+    TYPOGRAPHY
+-----------------*/
+body {
+    font-family: 'New Super Mario Font U', sans-serif;
+    text-align: center;                                                
+}
+
+h1 {
+    font-size: 100px;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    margin-bottom: 50px;
+}
+
+.title-red {
+    color: red;
+}
+
+.title-blue {
+    color: #004ED3;
+}
+
+.title-green {
+    color: green;
+}
+
+/*----------------
+    BOX
+-----------------*/
+
+.box {
+    background-color: white;
+    padding: 10px;
+}
+
+/*----------------
+    COLOR BOX
+-----------------*/
+
+.red {
+    background-color: #c90303;
+}
+
+.blue {
+    background-color: #004ED3;
+}
+
+.lightblue {
+    background-color: #00BFFE;
+}
+
+.lightbrown {
+  background-color: #D26920;
+}
+
+.brown {
+    background-color: #8B4512;
+}
+
+.orange {
+    background-color: #FF9024;
+}
+
+.skin {
+    background-color: #FFD2B4;
+}
+
+.darkskin {
+    background-color: #CF8443;
+}
+
+.lightblack {
+    background-color: #2B2B2B;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.green {
+    background-color: green;
+}
