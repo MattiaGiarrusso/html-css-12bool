@@ -1,0 +1,20 @@
+.box {
+    background-color: #2F81F7;
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+    padding: 10px;
+}
+
+.box .box {
+    background-color: #00E265; 
+    border: 1px solid #2F81F7;
+}
+
+.flow-14{
+    margin-bottom: 14px;
+}
+
+.void {
+    padding: 20px;
+}
