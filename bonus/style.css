@@ -3,7 +3,11 @@
 -----------------*/
 body {
     font-family: 'New Super Mario Font U', sans-serif;
-    text-align: center;                                                
+    text-align: center;
+    background-image: url(./super-mario-level-virtual-background-for-zoom.jpeg);
+    background-size: contain;
+    height: 1000px;
+    padding-top: 30px;                         
 }
 
 h1 {
@@ -29,7 +33,7 @@ h1 {
     BOX
 -----------------*/
 
-.box {
+.box{
     background-color: white;
     padding: 10px;
 }
@@ -44,6 +48,10 @@ h1 {
 
 .blue {
     background-color: #004ED3;
+}
+
+.sky {
+    background-color: transparent
 }
 
 .lightblue {

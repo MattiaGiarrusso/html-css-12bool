@@ -11,12 +11,12 @@
     CONTAINERS
 -----------------*/
 .container {
-    max-width: 1170px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
-.big-container {
-    max-width: 1380px;
+.road-container {
+    max-width: 100%;
     margin: 0 auto;
 }
 
